@@ -1,0 +1,14 @@
+{
+  "name": "ib-backend-node",
+  "version": "1.0.0",
+  "description": "this is backend for ib application using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Srishti Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
