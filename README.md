@@ -26,58 +26,32 @@
 
 ## Front End Screenshots 
 ### Dark Mode
-<table>
-  <tr>
-    <td>Screen Name</td>
-    <td>Screenshot</td>
-  </tr>
-  <tr>
-    <td>Landing Screen</td>
-    <td><img src="https://github.com/user-attachments/assets/b58cf709-3dd7-4e98-ae12-6d03457f64bc" height="400px"/></td>
-  </tr>
-  <tr>
-    <td>Help Tab</td>
-    <td><img src="https://github.com/user-attachments/assets/b3858c03-c8af-47c1-87f0-8c66d94db0f1" height="400px"/></td>
-  </tr>
-  <tr>
-    <td>Zone Selection</td>
-    <td><img src="https://github.com/user-attachments/assets/9e212638-3c63-41b9-b8dc-78e52349b59e" height="400px"/></td>
-  </tr>
-  <tr>
-    <td>Fetched Branch Deatils</td>
-    <td><img src="https://github.com/user-attachments/assets/346695f3-ef31-4179-9bd5-a1f67cb7f456" height="400px"/></td>
-  </tr>
-  <tr>
-    <td>Invalid Selection</td>
-    <td><img src="https://github.com/user-attachments/assets/e2ff2998-b4de-473d-9461-9c4e013c644c" height="400px"/></td>
-  </tr>  
-</table>
+
+| Screen Name            | Screenshot                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------|
+| Landing Screen         | <img src="https://github.com/user-attachments/assets/b58cf709-3dd7-4e98-ae12-6d03457f64bc" height="400px"/> |
+| Invalid Selection      | <img src="https://github.com/user-attachments/assets/e2ff2998-b4de-473d-9461-9c4e013c644c" height="400px"/> |
+| Help Tab               | <img src="https://github.com/user-attachments/assets/b3858c03-c8af-47c1-87f0-8c66d94db0f1" height="400px"/> |
+| Zone Selection         | <img src="https://github.com/user-attachments/assets/9e212638-3c63-41b9-b8dc-78e52349b59e" height="400px"/> |
+| Fetched Branch Deatils | <img src="https://github.com/user-attachments/assets/346695f3-ef31-4179-9bd5-a1f67cb7f456" height="400px"/> |
 
 ### Light Mode
-<table>
-  <tr>
-    <td>Screen Name</td>
-    <td>Screenshot</td>
-  </tr>
-  <tr>
-    <td>Invalid Selection</td>
-    <td><img src="https://github.com/user-attachments/assets/c4dd738b-6d1d-4a64-966d-252ffcafd4e0" height="400px"/></td>
-  </tr>
-  <tr>
-    <td>Help Tab</td>
-    <td><img src="https://github.com/user-attachments/assets/5ca961e2-d1a3-498f-92e8-0069521124c8" height="400px"/></td>
-  </tr>
-  <tr>
-    <td>Zone Selection</td>
-    <td><img src="https://github.com/user-attachments/assets/b6cc074b-b06f-4b2f-b318-90cd027b6543" height="400px"/></td>
-  </tr>
-  <tr>
-    <td>Fetched Branch Deatils</td>
-    <td><img src="https://github.com/user-attachments/assets/0adfe72f-67fd-4d89-b027-1c42a0152436" height="400px"/></td>
-  </tr>  
-</table>
 
+| Screen Name            | Screenshot                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------|
+| Invalid Selection      | <img src="https://github.com/user-attachments/assets/c4dd738b-6d1d-4a64-966d-252ffcafd4e0" height="400px"/> |
+| Help Tab               | <img src="https://github.com/user-attachments/assets/5ca961e2-d1a3-498f-92e8-0069521124c8" height="400px"/> |
+| Zone Selection         | <img src="https://github.com/user-attachments/assets/b6cc074b-b06f-4b2f-b318-90cd027b6543" height="400px"/> |
+| Fetched Branch Deatils | <img src="https://github.com/user-attachments/assets/0adfe72f-67fd-4d89-b027-1c42a0152436" height="400px"/> |
 
+## Project Version Details
+
+|Framework/Library       | Version         |
+|------------------------|-----------------|
+| React Native           | 0.76.5          |
+| Expo                   | 0.22.7          |
+| NPM                    | 10.9.0          |
+| Node                   | v22.12.0        |
 
 
 
