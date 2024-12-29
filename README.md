@@ -9,8 +9,10 @@
 > You can access the application here: <a target="_blank" href="https://expo.dev/preview/update?message=React%20Native%20App%20using%20Expo%20for%20IB%20Branches&updateRuntimeVersion=1.0.0&createdAt=2024-12-29T16%3A52%3A08.061Z&slug=exp&projectId=612e60a9-4692-4b63-a27e-7e6eb8a8695c&group=2133f37d-6170-4c2d-a084-c387b7e14d2f">IB Branch Locator</a>
 
 > Setup:
-- For IOS: Use camera app or OR code scanner, to scan the QR code displayed at the landing page. This will automatically launch the app for you. 
-- For Android: Download "Expo Go" from playstore, & scan the QR code shown from inside the apllication (Expo Go) & this will launch the app for you.
+- Download "Expo Go" from playstore/appstore
+- Launch application
+  - For IOS: Use camera app or OR code scanner, to scan the QR code displayed at the landing page. This will automatically launch the app for you. 
+  - For Android: Open "Expo Go" & scan the QR code shown from inside the apllication & this will launch the app for you.
 
 ## Open API Specification
 > You can access the backend APIs at the following link: <a target="_blank" href="https://app.swaggerhub.com/apis-docs/itsSrish/IBBranchLocator/1.0.0">IB-BranchLocator-BackendAPIs</a>
