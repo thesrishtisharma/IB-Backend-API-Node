@@ -11,7 +11,7 @@
 > Setup:
 - Download "Expo Go" from playstore/appstore
 - Launch application
-  - For IOS: Use camera app or OR code scanner, to scan the QR code displayed at the landing page. This will automatically launch the app for you. 
+  - For IOS: Use camera app or QR code scanner, to scan the code displayed at the landing page. This will automatically launch the app for you. 
   - For Android: Open "Expo Go" & scan the QR code shown from inside the apllication & this will launch the app for you.
 
 ## Open API Specification
