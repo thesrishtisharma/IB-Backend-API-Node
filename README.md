@@ -6,7 +6,7 @@
 > Pulls IB branch details (like - address, contact, IFSC code, email id) based on city/zone selection made by the user.
 
 ## App Trial Link - for IOS & Android
-> You can access the application here: <a target="_blank" href="https://expo.dev/preview/update?message=React%20Native%20App%20using%20Expo%20for%20IB%20Branches&updateRuntimeVersion=1.0.0&createdAt=2024-12-29T16%3A52%3A08.061Z&slug=exp&projectId=612e60a9-4692-4b63-a27e-7e6eb8a8695c&group=2133f37d-6170-4c2d-a084-c387b7e14d2f">IB Branch Locator</a>
+> You can access the application here: <a target="_blank" href="https://expo.dev/preview/update?message=Adding%20server%20URL%20to%20fetch%20data%20from%20deployed%20server&updateRuntimeVersion=1.0.0&createdAt=2024-12-30T13%3A41%3A12.297Z&slug=exp&projectId=612e60a9-4692-4b63-a27e-7e6eb8a8695c&group=bdcbc892-dc28-4884-8ae3-fc467104463c">IB Branch Locator</a>
 
 > Setup:
 - Download "Expo Go" from playstore/appstore
